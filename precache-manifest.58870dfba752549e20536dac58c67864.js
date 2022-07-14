@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "758485350285bd2a97ab",
+    "revision": "5e7765db602b48fcf66b",
     "url": "/react-canvas/static/css/main.bbf788b8.chunk.css"
   },
   {
-    "revision": "758485350285bd2a97ab",
-    "url": "/react-canvas/static/js/main.75848535.chunk.js"
+    "revision": "5e7765db602b48fcf66b",
+    "url": "/react-canvas/static/js/main.5e7765db.chunk.js"
   },
   {
     "revision": "cc360fb6938c4a946641",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-canvas/static/js/runtime~main.09e582a2.js"
   },
   {
-    "revision": "7a5961fe67365d53814c0b5bff120f21",
+    "revision": "474cb6a312ffcf1320bb160ff60e2e47",
     "url": "/react-canvas/index.html"
   }
 ];
