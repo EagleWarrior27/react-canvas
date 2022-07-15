@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import html2canvas from 'html2canvas';
+import React from 'react';
 import './App.css';
 
 function App() {
